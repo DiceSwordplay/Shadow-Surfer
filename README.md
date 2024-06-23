@@ -1,7 +1,6 @@
 # Movies and More
-### NOT FOR MOBILE
 
-This is a downloable platform, to keep it unblocked.
+This is a downloable platform, to keep it unblocked. All of the movies are older movies, hosted by Internet Archive.
 
 ### How to download
 
