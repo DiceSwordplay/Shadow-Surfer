@@ -18,9 +18,9 @@ Movies - Internet Archive - https://archive.org/
 
 # Creators
 
-<i>- DiceSworplay -</i>
+<i>- DiceSworplay - Coding -</i>
 
-<i>- PaperPelicanDelusions(Not on GitHub) -</i>
+<i>- PaperPelicanDelusions - Video Hosting -</i>
 
 
 
