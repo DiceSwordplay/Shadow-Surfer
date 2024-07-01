@@ -8,7 +8,7 @@ Shadow Surfer has movies that are free to watch and can be downloaded. The whole
 
 # What if it gets blocked?
 
-Fork it and rename it to something else in your own account. Please give credit.
+Contact me on the is-it-blocked chanel on the discord server.
 
 ### Anyway, have fun with it!
 
