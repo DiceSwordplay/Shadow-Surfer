@@ -16,9 +16,11 @@ Video Hosting - Google Drive - https://drive.google.com
 
 Movies - Internet Archive - https://archive.org/
 
-# Creator
+# Creators
 
-<i>DiceSworplay</i>
+<i>- DiceSworplay -</i>
+
+<i>- PaperPelicanDelusions(Not on GitHub) -</i>
 
 
 
