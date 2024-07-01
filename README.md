@@ -1,6 +1,10 @@
 # Shadow Surfer - Downloadable and Web Streaming
 
-Shadow Surfer has movies that are free to watch and can be downloaded. The whole idea to this is to have an unblockable streaming in schools like LISA Academy without needing to find proxies or such.
+Shadow Surfer has movies that are free to watch and can be downloaded. The whole idea to this is to have an unblockable streaming in schools like LISA Academy without needing to find proxies or such. Some media may not be put on for a while, or may not work for you, if you have any problems at all message us in the discord server.
+
+<a href="https://discord.gg/yh8NcPCS">
+  <p align="left">Join us on discord!</p>
+</a>
 
 # What if it gets blocked?
 
@@ -18,7 +22,7 @@ Movies - Internet Archive - https://archive.org/
 
 # Creators
 
-<i>- DiceSworplay - Coding -</i>
+<i>- AcidDS - Coding -</i>
 
 <i>- PaperPelicanDelusions - Video Hosting -</i>
 
